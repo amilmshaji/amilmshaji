@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.
-🌱 I’m currently learning Django.
-👯 I’m looking to collaborate with other programmers.
-⚡️ Fun fact:I love to Travel.
+🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
+🌱 I’m currently learning Django.<br>
+👯 I’m looking to collaborate with other programmers.<br>
+⚡️ Fun fact:I love to Travel.<br>
 📫 How to reach me **msamilmanadiyil2560@gmail.com**
 
 
