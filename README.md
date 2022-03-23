@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
 🌱 I’m currently learning Django.<br>
