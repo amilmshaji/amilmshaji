@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amil</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+
+<img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
 🌱 I’m currently learning Django.<br>
 👯 I’m looking to collaborate with other programmers.<br>
