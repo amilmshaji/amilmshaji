@@ -29,11 +29,3 @@
 <br/>
 <img alt="Amil M Shaji's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amilmshaji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
-<br/>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/amilmshaji"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="100" width="375" alt="amilmahaji" /></a></p><br><br>
-<!-- ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=amilmshaji">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/allensphilip?label=Followers&style=social" alt="GitHub Badge"></a> -->
