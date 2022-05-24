@@ -36,5 +36,4 @@ You can use the website to generate badges: https://shields.io/
   <br/>
  <img alt="" src="https://github-profile-trophy.vercel.app/?username=amilmshaji&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
 <br/><br>
-<img alt="Amil M Shaji's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amilmshaji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
+
