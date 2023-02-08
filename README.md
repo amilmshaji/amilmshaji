@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
  <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
-🌱 I’m currently learning Django.<br>
+🌱 I’m currently learning AI.<br>
 👯 I’m looking to collaborate with other programmers.<br>
 ⚡️ Fun fact:I love to Travel.<br>
 📫 How to reach me **msamilmanadiyil2560@gmail.com**
