@@ -1,6 +1,6 @@
 
 <!-- Your title -->
-## Hi, I'm Amil M Shaji, a Developer 🚀 from India.
+## Hi, I'm Amil M Shaji, a AI Engineer 🚀 from India.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -14,11 +14,11 @@ You can use the website to generate badges: https://shields.io/
 
  <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.<br>
-🌱 I’m currently learning AI Models.<br>
+🔭 AI Engineer<br>
+🌱 I’m currently learning LLM Models.<br>
 👯 I’m looking to collaborate with other programmers.<br>
 ⚡️ Fun fact:I love to Travel.<br>
-📫 How to reach me **msamilmanadiyil2560@gmail.com**
+📫 How to reach me **amilmshaji2560@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
