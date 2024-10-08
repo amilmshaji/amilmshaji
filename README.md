@@ -1,4 +1,3 @@
-
 <!-- Your title -->
 ## Hi, I'm Amil M Shaji, a AI Engineer 🚀 from India.
 
